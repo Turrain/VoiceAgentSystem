@@ -1,0 +1,47 @@
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+Build/
+
+# Roslyn cache directories
+*.vs/
+
+# MSTest test Results
+TestResults
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# The build repository
+*.dbmdl
+Generated_Files/
+
+# MSTest test settings
+MSTestTestSettings.xml
+
+# Backup & report files from converting an old project file to a new
+# format. Backup files are not needed, because we have git ;-)
+# But this leaves a trail of files lying around, so clear out any conversion
+# backup files and report files in your project tree.
+MigrationReport.xml
+_UpgradeReport_Files/
+
+# Publish files
+*.publishproj
+*.pubxml
+
+# Report files from NuGet
+*.nuget.log
+NuGetPackages/

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceAgentSystem.Library", "VoiceAgentSystem.Library\VoiceAgentSystem.Library.csproj", "{FA724FDD-3C66-4D8B-AE8F-0464803471CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceAgentSystem.App", "VoiceAgentSystem.App\VoiceAgentSystem.App.csproj", "{BAAFED68-7DCC-4B04-B18B-1CF2C91C15BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA724FDD-3C66-4D8B-AE8F-0464803471CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA724FDD-3C66-4D8B-AE8F-0464803471CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA724FDD-3C66-4D8B-AE8F-0464803471CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA724FDD-3C66-4D8B-AE8F-0464803471CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAFED68-7DCC-4B04-B18B-1CF2C91C15BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAFED68-7DCC-4B04-B18B-1CF2C91C15BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAFED68-7DCC-4B04-B18B-1CF2C91C15BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAFED68-7DCC-4B04-B18B-1CF2C91C15BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
